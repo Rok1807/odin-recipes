@@ -1,0 +1,23 @@
+body {
+    background-color: #8DFF4F;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1,
+h2 {
+    color: #5F005F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+ul,
+li,
+p {
+    color: #AD24AD;
+
+}
+.ewa,.spag{
+    height: auto;
+    width: 400px;
+}
